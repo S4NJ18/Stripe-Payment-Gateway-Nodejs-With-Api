@@ -1,6 +1,6 @@
-# 💳 Stripe Payment Gateway using Node.js & EJS
+# 💳 Stripe Payment Gateway using Node.js & Express , RestApi
 
-This is a simple Stripe payment gateway integration built with **Node.js**, **Express**, and **EJS**.
+This is a simple Stripe payment gateway integration built with **Node.js**, **Express**,**RestAPI**, and **EJS**.
 
 It’s designed for **portfolio/demo purposes**, showcasing how to:
 - Use **Stripe Elements** to collect card details securely
